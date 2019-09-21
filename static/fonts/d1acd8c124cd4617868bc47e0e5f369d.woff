@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>5D849BDFEA87269CD3D4C259</RequestId>
+  <HostId>vivo-landpage-front.oss-cn-beijing.aliyuncs.com</HostId>
+  <Key>vivoportal/web/dist/common_umix/images/close-grey-28x28_076c79c.png);-webkit-background-size:.32rem .32rem;-moz-background-size:.32rem;-o-background-size:.32rem;background-size:.32rem;border-left:1px solid </Key>
+</Error>
